@@ -3,8 +3,9 @@ This is a challenge from Paylocity as part of a recruitment process.
 
 Please go to the folders:
 
-+API BUGs
-+UI BUGs
++ API BUGs
+
++ UI BUGs
 
 Thank you Paylocity for this exercise.
 
