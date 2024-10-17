@@ -1,9 +1,9 @@
 # Paylocity Bug Challenge 🐛 
 This is a challenge from Paylocity as part of a recruitment process.
 
-Please go to the folders:
+Please go to the folders and select the PDF's files:
 
-+ API BUG
++ API BUG 
 
 + UI BUG
 
