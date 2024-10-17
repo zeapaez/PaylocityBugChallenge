@@ -1,10 +1,10 @@
-# Paylocity Bug Challenge
+# Paylocity Bug Challenge 🐛 
 This is a challenge from Paylocity as part of a recruitment process.
 
 Please go to the folders:
 
-API TEST
-UI TEST
++API BUGs
++UI BUGs
 
 Thank you Paylocity for this exercise.
 
