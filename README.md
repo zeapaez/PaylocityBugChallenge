@@ -11,3 +11,7 @@ Thank you Paylocity for this exercise.
 
 ![image](https://github.com/user-attachments/assets/c8588f4c-24ce-40ea-8d19-f794c8b408d7)
 
+<img src="https://github.com/user-attachments/assets/c8588f4c-24ce-40ea-8d19-f794c8b408d7)" width=50% height=50%>
+
+
+
